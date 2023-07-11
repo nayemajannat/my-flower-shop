@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+  }
+  body{
+    font-family: 'Lato', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  }
+  /* nav part */
+  .heading-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 50px 240px 0px;
+    background-color: rgba(229, 84, 115, 0.10);
+  }
